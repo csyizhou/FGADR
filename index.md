@@ -6,34 +6,9 @@ People with diabetes are at risk of having an eye disease called diabetic retino
 
 ![Image text](https://github.com/csyizhou/FGADR-2842-Dataset/blob/master/img/FGADR_Annotation.png)
 
-### Markdown
+### Statistics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+FGADR consists of two sets. The first set, named Seg-set, contains 1,842 images with both pixel-level lesion annotations and image-level grading labels. The lesions include microaneurysms (MA), hemorrhages (HE), hard exudates (EX), soft exudates (SE), intra-retinal microvascular abnormalities (IRMA), and neovascularization (NV). The grading labels are annotated by three ophthalmologists. The second set, named Grade-set, is a set of 1,000 images with grading labels annotated by six ophthalmologists. This set is particularly used for evaluating grading performance due to its high annotation confidence. In addition to the six pixel-level lesions annotated in Seg-set, we also annotate the laser mark (LM) and proliferate membrane (PM) lesions with image-level labels.
 
-```markdown
-Syntax highlighted code block
+![Image text](https://github.com/csyizhou/FGADR-2842-Dataset/blob/master/img/FGADR_Statistics.png)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/csyizhou/FGADR/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
