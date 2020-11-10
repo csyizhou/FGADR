@@ -21,7 +21,6 @@ Note:
 4. You agree not to further copy, publish or distribute any portion of the FGADR database. Except, for internal use at a single site within the same organization it is allowed to make copies of the database.
 5. The IIAI reserves the right to terminate your access to the database at any time.
 6. All submitted papers or any publicly available text using the FGADR database must cite the following paper [PDF](https://arxiv.org/pdf/2008.09772.pdf):
-
 A Benchmark for Studying Diabetic Retinopathy: Segmentation, Grading, and Transferability. [Yi Zhou](https://scholar.google.co.uk/citations?user=EnDCJKMAAAAJ&hl=en), Boyang Wang, [Lei Huang](https://scholar.google.co.uk/citations?user=yTshbKkAAAAJ&hl=en), Shanshan Cui, and [Ling Shao](https://scholar.google.co.uk/citations?user=z84rLjoAAAAJ&hl=en). 
 
 
