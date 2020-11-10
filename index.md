@@ -12,3 +12,20 @@ FGADR consists of two sets. The first set, named Seg-set, contains 1,842 images 
 
 ![Image text](https://github.com/csyizhou/FGADR-2842-Dataset/blob/master/img/FGADR_Statistics.png)
 
+### Dataset Access
+
+Note:
+1. The FGADR database is available for non-commercial research purposes only.
+2. Most images of the FGADR database are obtained from the UAE hospitals which are the property of Inception Institute of Artificial Intelligence, Abu Dhabi, UAE.
+3. You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.
+4. You agree not to further copy, publish or distribute any portion of the FGADR database. Except, for internal use at a single site within the same organization it is allowed to make copies of the database.
+5. The IIAI reserves the right to terminate your access to the database at any time.
+6. All submitted papers or any publicly available text using the FGADR database must cite the following paper:
+Yi Zhou, Boyang Wang, Lei Huang, Shanshan Cui, and Ling Shao. A Benchmark for Studying Diabetic Retinopathy: Segmentation, Grading, and Transferability.
+https://arxiv.org/pdf/2008.09772.pdf
+
+Download Instructions:
+
+Please read the IIAI FGADR Dataset Research Use Agreement https://www.dropbox.com/s/ggahmdu2fh9ag9x/IIAI_FGADR_Research_Use_Agreement.pdf?dl=0.
+
+Once you agree to register to download the FGADR dataset, please sign the form and email to yizhou.szcn@gmail.com. You will receive a link to the download over email. Note that you may not share the link to download the dataset with others.
