@@ -22,7 +22,7 @@ Note:
 5. The IIAI reserves the right to terminate your access to the database at any time.
 6. All submitted papers or any publicly available text using the FGADR database must cite the following paper:
 Yi Zhou, Boyang Wang, Lei Huang, Shanshan Cui, and Ling Shao. A Benchmark for Studying Diabetic Retinopathy: Segmentation, Grading, and Transferability.
-https://arxiv.org/pdf/2008.09772.pdf
+（https://arxiv.org/pdf/2008.09772.pdf）
 
 Download Instructions:
 
