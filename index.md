@@ -23,22 +23,14 @@ Note:
 6. All submitted papers or any publicly available text using the FGADR database must cite the following paper:
 A Benchmark for Studying Diabetic Retinopathy: Segmentation, Grading, and Transferability [PDF](https://arxiv.org/pdf/2008.09772.pdf). [Yi Zhou](https://scholar.google.co.uk/citations?user=EnDCJKMAAAAJ&hl=en), Boyang Wang, [Lei Huang](https://scholar.google.co.uk/citations?user=yTshbKkAAAAJ&hl=en), Shanshan Cui, and [Ling Shao](https://scholar.google.co.uk/citations?user=z84rLjoAAAAJ&hl=en). 
 
-@ARTICLE{9257400,
-
-  author={Y. {Zhou} and B. {Wang} and L. {Huang} and S. {Cui} and L. {Shao}},
-  
-  journal={IEEE Transactions on Medical Imaging}, 
-  
-  title={A Benchmark for Studying Diabetic Retinopathy: Segmentation, Grading, and Transferability}, 
-  
-  year={2020},
-  
-  volume={},
-  
-  number={},
-  
-  pages={1-1},
-  
+@ARTICLE{9257400,<br/>
+  author={Y. {Zhou} and B. {Wang} and L. {Huang} and S. {Cui} and L. {Shao}},<br/>
+  journal={IEEE Transactions on Medical Imaging}, <br/>
+  title={A Benchmark for Studying Diabetic Retinopathy: Segmentation, Grading, and Transferability}, <br/>
+  year={2020},<br/>
+  volume={},<br/>
+  number={},<br/>
+  pages={1-1},<br/>
   doi={10.1109/TMI.2020.3037771}}
 
 
