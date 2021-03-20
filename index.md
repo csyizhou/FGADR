@@ -27,7 +27,7 @@ Note:
   author={Y. {Zhou} and B. {Wang} and L. {Huang} and S. {Cui} and L. {Shao}},<br/>
   journal={IEEE Transactions on Medical Imaging}, <br/>
   title={A Benchmark for Studying Diabetic Retinopathy: Segmentation, Grading, and Transferability}, <br/>
-  year={2020},<br/>
+  year={2021},<br/>
   volume={40},<br/>
   number={3},<br/>
   pages={818-828},<br/>
