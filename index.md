@@ -28,9 +28,9 @@ Note:
   journal={IEEE Transactions on Medical Imaging}, <br/>
   title={A Benchmark for Studying Diabetic Retinopathy: Segmentation, Grading, and Transferability}, <br/>
   year={2020},<br/>
-  volume={},<br/>
-  number={},<br/>
-  pages={1-1},<br/>
+  volume={40},<br/>
+  number={3},<br/>
+  pages={818-828},<br/>
   doi={10.1109/TMI.2020.3037771}}
 
 
